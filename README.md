@@ -24,7 +24,7 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/).
+The main findings of the code can be found at the post available [here](https://medium.com/@tajimash/how-does-data-science-contribute-to-business-a-e0017b4712bc).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
